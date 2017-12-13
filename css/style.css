@@ -6534,6 +6534,11 @@ section:hover .small-item-carousel .owl-next{
 
 .row h4 {
     color: #00f6ff;
+    color: #ff00de;
+    /* text-shadow: 0 1px black; */
+    font-family: 'Press Start 2P', cursive;
+    font-size: 14px;
+    /* background: #ededed; */
 }
 
 .lets-talk {
