@@ -49,12 +49,13 @@
         init_wow();
         init_masonry();
         init_typed();
+        init_skills_colors();
     });
     
     $(window).resize(function(){
         
         init_classic_menu_resize();
-        init_side_panel_resize()
+        init_side_panel_resize();
         js_height_init();
         split_height_init();
         
@@ -171,6 +172,15 @@
         fadeOut: true,
         loop: true
       });
+    }
+
+    function init_skills_colors() {
+        var colors = ["#f6171c","#e283fa","#02fd9e","#fff","#fffd68", "#ff03ef","#46afff","#fcba42"];
+        var rand = Math.floor(Math.random()*colors.length);
+
+        $('#skills .row').map(function(index, item) {
+          $(item).children().css("color", colors[index])
+        });
     }
     
     function init_classic_menu(){

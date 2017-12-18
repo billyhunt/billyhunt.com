@@ -3461,7 +3461,8 @@ a.logo:hover{
     z-index: 3; 
 }
 .work-item:hover .work-title{
-    color: #ccc;
+    color: #00f6ff;
+    text-shadow: 1px 0px #ff00de;
 }
 .work-item:hover .work-descr{
     color: #999;
@@ -3497,7 +3498,6 @@ a.logo:hover{
     opacity: .73;
 }
 .works-grid.hover-white .work-item:hover .work-intro,
-.works-grid.hover-white .work-item:hover .work-title,
 .works-grid.hover-white .work-item:hover .work-descr{
     color: #000;
 }
@@ -6506,12 +6506,12 @@ section:hover .small-item-carousel .owl-next{
 }
 
 .stars {
-    background:#000 url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top center;
+    background:#000 url(../images/stars.png) repeat top center;
     z-index:0;
 }
 
 .twinkling{
-    background:transparent url(http://www.script-tutorials.com/demos/360/images/twinkling.png) repeat top center;
+    background:transparent url(../images/twinkling.png) repeat top center;
     z-index:1;
 
     -moz-animation:move-twink-back 200s linear infinite;
@@ -6532,12 +6532,12 @@ section:hover .small-item-carousel .owl-next{
     margin-bottom: 2rem;
 }
 
-.row h4 {
-    color: #00f6ff;
+.section-text h4, .work-title {
     color: #ff00de;
-    /* text-shadow: 0 1px black; */
-    font-family: 'Press Start 2P', cursive;
-    font-size: 14px;
+    text-shadow: 1px 0px #00f6ff;
+    font-family: 'Audiowide', cursive;
+    font-size: 18px;
+    font-weight: bold;
     /* background: #ededed; */
 }
 
