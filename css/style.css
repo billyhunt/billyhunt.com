@@ -202,7 +202,7 @@ html, body{
     position: fixed;
     top: 0;
     left: 0;
-    background: #fff url(../images/loader.gif) no-repeat center center;
+    background: #fff url(../images/full-width-images/run-billyhunt.gif) no-repeat center center;
     z-index: 100000;    
 }
 
@@ -249,7 +249,7 @@ img:not([draggable]), embed, object, video{
     top: 0;
     left: 0;
     background: #fefefe;
-    z-index: 100000;    
+    z-index: 100000;
 }
 
 .loader{
@@ -265,17 +265,17 @@ img:not([draggable]), embed, object, video{
     border-right: 1px solid rgba(0,0,0, 0.08);
     border-bottom: 1px solid rgba(0,0,0, 0.08);
     border-left: 1px solid rgba(0,0,0, 0.5);
-  
+
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-  
+
     -webkit-animation: spinner 700ms infinite linear;
     -moz-animation: spinner 700ms infinite linear;
     -ms-animation: spinner 700ms infinite linear;
     -o-animation: spinner 700ms infinite linear;
     animation: spinner 700ms infinite linear;
-  
+
     z-index: 100001;
 }
 
@@ -3553,7 +3553,7 @@ a.logo:hover{
     left: 50%;
     top: 50%;
     margin: -8px 0 0 -8px;
-    background: url(../images/loader.gif) no-repeat;
+    background: url(../images/full-width-images/run-billyhunt.gif) no-repeat;
 }
 
 /* Work navigation */
