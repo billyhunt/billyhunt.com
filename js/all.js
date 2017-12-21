@@ -31,10 +31,10 @@
         }
         
     });
-    
+
     $(document).ready(function(){
-        
-        $(window).trigger("resize");            
+
+        $(window).trigger("resize");
         init_classic_menu();
         init_fullscreen_menu();
         init_side_panel();
@@ -48,7 +48,9 @@
         init_map();
         init_wow();
         init_masonry();
-        init_typed();
+        if (typeof Typed != "undefined") {
+          init_typed();
+        }
         init_skills_colors();
     });
     
