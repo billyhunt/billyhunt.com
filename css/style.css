@@ -3431,7 +3431,8 @@ a.logo:hover{
 }
 .works-grid.hide-titles .work-item .work-intro{
     opacity: 0;
-    bottom: -94px;
+    bottom: -60px;
+    height: 100px;
 }
 .works-grid.hide-titles .work-item:hover .work-intro{
     opacity: 1;
