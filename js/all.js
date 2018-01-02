@@ -48,7 +48,7 @@
         init_map();
         init_wow();
         init_masonry();
-        if (typeof Typed != "undefined") {
+      if (typeof Typed != "undefined") {
           init_typed();
         }
         init_skills_colors();
