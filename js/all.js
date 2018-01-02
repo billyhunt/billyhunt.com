@@ -367,7 +367,236 @@
             }
         });
         $(".lightbox").magnificPopup();
-        
+
+      $('.portfolio-lightbox-1').magnificPopup({
+        items: [
+          {
+            src: 'images/portfolio/book-portrait1.jpg',
+            title: 'Book Portrait 1'
+          },
+          {
+            src: 'images/portfolio/book-portrait2.jpg',
+            title: 'Book Portrait 2'
+          },
+          {
+            src: 'images/portfolio/book-portrait3.jpg',
+            title: 'Book Portrait 3'
+          },
+          {
+            src: 'images/portfolio/book-portrait4.jpg',
+            title: 'Book Portrait 4'
+          },
+          {
+            src: 'images/portfolio/book-portrait5.jpg',
+            title: 'Book Portrait 5'
+          },
+          {
+            src: 'images/portfolio/book-portrait6.jpg',
+            title: 'Book Portrait 6'
+          },
+          {
+            src: 'images/portfolio/book-portrait7.jpg',
+            title: 'Book Portrait 7'
+          },
+          {
+            src: 'images/portfolio/book-portrait8.jpg',
+            title: 'Book Portrait 8'
+          },
+          {
+            src: 'images/portfolio/book-portrait9.jpg',
+            title: 'Book Portrait 9'
+          },
+          {
+            src: 'images/portfolio/book-portrait10.jpg',
+            title: 'Book Portrait 10'
+          },
+        ],
+        gallery: {
+          enabled: true
+        },
+        type: 'image' // this is a default type
+      });
+
+      $('.portfolio-lightbox-2').magnificPopup({
+        items: [
+          {
+            src: 'images/portfolio/claw-1140px-1.jpg',
+            title: 'CLAW 1'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-2.jpg',
+            title: 'CLAW 2'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-3.jpg',
+            title: 'CLAW 3'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-4.jpg',
+            title: 'CLAW 4'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-5.jpg',
+            title: 'CLAW 5'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-6.jpg',
+            title: 'CLAW 6'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-7.jpg',
+            title: 'CLAW 7'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-8.jpg',
+            title: 'CLAW 8'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-9.jpg',
+            title: 'CLAW 9'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-10.jpg',
+            title: 'CLAW 10'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-11.jpg',
+            title: 'CLAW 11'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-12.jpg',
+            title: 'CLAW 12'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-13.jpg',
+            title: 'CLAW 13'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-14.jpg',
+            title: 'CLAW 14'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-15.jpg',
+            title: 'CLAW 15'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-16.jpg',
+            title: 'CLAW 16'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-17.jpg',
+            title: 'CLAW 17'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-18.jpg',
+            title: 'CLAW 18'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-19.jpg',
+            title: 'CLAW 19'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-20.jpg',
+            title: 'CLAW 20'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-21.jpg',
+            title: 'CLAW 21'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-22.jpg',
+            title: 'CLAW 22'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-23.jpg',
+            title: 'CLAW 23'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-24.jpg',
+            title: 'CLAW 24'
+          },
+          {
+            src: 'images/portfolio/claw-1140px-25.jpg',
+            title: 'CLAW 25'
+          }
+        ],
+        gallery: {
+          enabled: true
+        },
+        type: 'image' // this is a default type
+      });
+
+      $('.portfolio-lightbox-3').magnificPopup({
+        items: [
+          {
+            src: 'images/portfolio/grisham.jpg',
+            title: 'John Grisham'
+          }
+        ],
+        gallery: {
+          enabled: true
+        },
+        type: 'image' // this is a default type
+      });
+
+      $('.portfolio-lightbox-4').magnificPopup({
+        items: [
+          {
+            src: 'images/portfolio/white-people-dancing-1.jpg',
+            title: 'Wedding Dancers 1'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-2.jpg',
+            title: 'Wedding Dancers 2'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-3.jpg',
+            title: 'Wedding Dancers 3'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-4.jpg',
+            title: 'Wedding Dancers 4'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-5.jpg',
+            title: 'Wedding Dancers 5'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-6.jpg',
+            title: 'Wedding Dancers 6'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-7.jpg',
+            title: 'Wedding Dancers 7'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-8.jpg',
+            title: 'Wedding Dancers 8'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-9.jpg',
+            title: 'Wedding Dancers 9'
+          },
+          {
+            src: 'images/portfolio/white-people-dancing-10.jpg',
+            title: 'Wedding Dancers 10'
+          },          {
+            src: 'images/portfolio/white-people-dancing-11.jpg',
+            title: 'Wedding Dancers 11'
+          },          {
+            src: 'images/portfolio/white-people-dancing-12.jpg',
+            title: 'Wedding Dancers 12'
+          },          {
+            src: 'images/portfolio/white-people-dancing-13.jpg',
+            title: 'Wedding Dancers 13'
+          },
+        ],
+        gallery: {
+          enabled: true
+        },
+        type: 'image' // this is a default type
+      });
+
     }
     
     
