@@ -586,10 +586,7 @@
           },          {
             src: 'images/portfolio/white-people-dancing-12.jpg',
             title: 'Wedding Dancers 12'
-          },          {
-            src: 'images/portfolio/white-people-dancing-13.jpg',
-            title: 'Wedding Dancers 13'
-          },
+          }
         ],
         gallery: {
           enabled: true
