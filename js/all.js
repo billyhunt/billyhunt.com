@@ -372,43 +372,43 @@
         items: [
           {
             src: 'images/portfolio/book-portrait1.jpg',
-            title: 'Book Portrait 1'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait2.jpg',
-            title: 'Book Portrait 2'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait3.jpg',
-            title: 'Book Portrait 3'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait4.jpg',
-            title: 'Book Portrait 4'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait5.jpg',
-            title: 'Book Portrait 5'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait6.jpg',
-            title: 'Book Portrait 6'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait7.jpg',
-            title: 'Book Portrait 7'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait8.jpg',
-            title: 'Book Portrait 8'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait9.jpg',
-            title: 'Book Portrait 9'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
           {
             src: 'images/portfolio/book-portrait10.jpg',
-            title: 'Book Portrait 10'
+            title: 'Figure studies using a variety of lasers and non traditional lighting.  It started as a challenge to take a classic genre and make something completely new.  I really like the underwater feel of the imagery.'
           },
         ],
         gallery: {
@@ -421,103 +421,103 @@
         items: [
           {
             src: 'images/portfolio/claw-1140px-1.jpg',
-            title: 'CLAW 1'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-2.jpg',
-            title: 'CLAW 2'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-3.jpg',
-            title: 'CLAW 3'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-4.jpg',
-            title: 'CLAW 4'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-5.jpg',
-            title: 'CLAW 5'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-6.jpg',
-            title: 'CLAW 6'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-7.jpg',
-            title: 'CLAW 7'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-8.jpg',
-            title: 'CLAW 8'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-9.jpg',
-            title: 'CLAW 9'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-10.jpg',
-            title: 'CLAW 10'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-11.jpg',
-            title: 'CLAW 11'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-12.jpg',
-            title: 'CLAW 12'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-13.jpg',
-            title: 'CLAW 13'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-14.jpg',
-            title: 'CLAW 14'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-15.jpg',
-            title: 'CLAW 15'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-16.jpg',
-            title: 'CLAW 16'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-17.jpg',
-            title: 'CLAW 17'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-18.jpg',
-            title: 'CLAW 18'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-19.jpg',
-            title: 'CLAW 19'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-20.jpg',
-            title: 'CLAW 20'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-21.jpg',
-            title: 'CLAW 21'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-22.jpg',
-            title: 'CLAW 22'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-23.jpg',
-            title: 'CLAW 23'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-24.jpg',
-            title: 'CLAW 24'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           },
           {
             src: 'images/portfolio/claw-1140px-25.jpg',
-            title: 'CLAW 25'
+            title: 'My feature-length documentary and book detailing the national movement of theatrical ladies’ arm wrestling have both been featured on NPR. The book was winner of Blurb’s “Photography Book Now” competition and the film won the audience award at the Virginia Film Festival. See the film <a href="https://www.youtube.com/watch?v=Z5QZeu3MkAM">here</a>\n'
           }
         ],
         gallery: {

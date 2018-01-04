@@ -6557,6 +6557,7 @@ section:hover .small-item-carousel .owl-next{
 }
 figure img.mfp-img {
     width: 70%;
+    padding-bottom: 100px;
 }
 
 .mfp-figure {
@@ -6574,7 +6575,8 @@ figure img.mfp-img {
 
 .mfp-title {
     color: #111;
-    margin-bottom: 15px;
+    margin: -60px 20px;
+    font-size: 12pt;
 }
 
 .mfp-image-holder .mfp-close {
