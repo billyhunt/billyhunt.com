@@ -6545,3 +6545,48 @@ section:hover .small-item-carousel .owl-next{
 .lets-talk {
     margin-top: 2rem;
 }
+
+@media (max-width: 768px) {
+    .skills-rank {
+        display: none;
+    }
+}
+
+.mfp-image-holder .mfp-content {
+    max-width: 90%;
+}
+figure img.mfp-img {
+    width: 70%;
+}
+
+.mfp-figure {
+    background: #F3F3F3;
+}
+
+.mfp-figure figure {
+    padding-bottom: 20px;
+}
+
+.mfp-bottom-bar {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.mfp-title {
+    color: #111;
+    margin-bottom: 15px;
+}
+
+.mfp-image-holder .mfp-close {
+    color: #111;
+    margin-right: 20px;
+}
+
+.mfp-counter {
+    margin-right: 50px;
+    color: #ff00de;
+    text-shadow: 1px 0px #00f6ff;
+    font-family: 'Audiowide', cursive;
+    font-size: 18px;
+    font-weight: bold;
+}

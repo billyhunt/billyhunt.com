@@ -530,7 +530,7 @@
         items: [
           {
             src: 'images/portfolio/grisham.jpg',
-            title: 'John Grisham'
+            title: 'I had the chance to take John Grisham\'s author portrait, which was used on many of his recent books'
           }
         ],
         gallery: {
