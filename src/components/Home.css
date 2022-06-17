@@ -1,0 +1,32 @@
+#home {
+    background: url("../images/full-width-images/bg-hero2.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position-x: center;
+}
+
+.iii-logo {
+    margin-top: 15vh;
+}
+
+.home-text {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    padding-bottom: 35rem;
+}
+
+.home-text img {
+    max-width: 80%;
+}
+
+.home-content {
+    position: relative;
+}
+
+.home-content {
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
